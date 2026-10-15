@@ -1,0 +1,29 @@
+Basic Usage Configuration
+Configure Management Network
+Connect the monitor directly to the device and log in with the admin account for configuration.
+Default account and password: 
+admin/NDR1234!@#$
+Or
+admin/Admin1234!
+
+Configure Network
+Login the Web Management HomePage
+In the browser address bar, enter https://<appliance_IP_address> to login the Web Management HomePage.
+
+Activate Product License
+The System can only detect traffic and update signature databases after being activated with a license file.
+SystemManagement > System Information
+Import License File
+
+Set up a Monitoring Port
+At least one interface must be set as a monitoring port to observe network traffic.
+1. SystemManagement > Network Settings > Interface Settings.
+2. In the Edit Interface dialog box, set the Interface Type to Monitoring Port.
+
+Upgrade
+Version Upgrade
+ please go to SystemManagement  > Version Upgrade 
+
+Pattern Library Upgrade
+Online Update
+Go to SystemManagement  > Pattern Library Upgrade
